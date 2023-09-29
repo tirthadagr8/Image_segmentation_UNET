@@ -3,7 +3,7 @@
 [TrainImageData](https://drive.google.com/file/d/18qrIAFwxaTW4m8Lz-oFjJ3d31P6zUvrk/view?usp=sharing) and [TrainLabels](https://drive.google.com/file/d/1fRDfGBpJ3iRQoOvLwp-vMgwcvRl7whcE/view?usp=sharing) used in Diabetic Retina class Classification.
 
 --------------Weights of Models in Optic Disc Segmentation--------------<br>
- [VGG16](https://drive.google.com/file/d/1025e1P8IWacuD4MP1eH9DRI6Iq45dE-O/view?usp=sharing)<br>
+ [UNet](https://drive.google.com/file/d/1025e1P8IWacuD4MP1eH9DRI6Iq45dE-O/view?usp=sharing)<br>
  
 --------------Weights of Models in Diabetic Retina Classification--------------<br>
 [VGG16](https://drive.google.com/file/d/1qBhT9NSyU5x5M0x8_YH9-vbcdreadN4Z/view?usp=sharing)<br>
